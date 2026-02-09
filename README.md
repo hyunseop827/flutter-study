@@ -8,7 +8,7 @@ This repository is for flutter studying and learning with book.
 ## Repository structure
 This repository will be containing 5 different themes of app, which all of them has own features.
 
-### [personality_test] (/personality_test)
+### [personality test] (/personality_test)
 Personality test app, which is first trial of this book.
 ---
 ## Commit message
